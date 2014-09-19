@@ -7,6 +7,6 @@
     </chain>
   </resolvers>
   <modules>
-     <module organisation="org.apache.hadoop" name="*" resolver="apache-hadoop"/>
+     <module organisation="org.apache.hadoop" name="false" resolver="apache-hadoop"/>
   </modules>
 </ivysettings>
